@@ -1,0 +1,24 @@
+.title{
+    color: #fff;
+    margin-bottom: 6vh;
+}
+.container_newtodo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 4vh;
+}
+.container{
+    display: flex;
+    gap: 15px;
+}
+.input{
+    width: 400px;
+    height: 40px;
+    font-size: 1.4rem;
+}
+.btn-1{
+    padding: 5px;
+    background-color: gray;
+    color: #ffff;
+}
